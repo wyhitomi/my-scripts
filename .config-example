@@ -1,0 +1,3 @@
+NAMESPACE=
+EMAIL="my-email@domain.com"
+JSON_PATH="~/json-path/gcr-json.json"

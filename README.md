@@ -1,1 +1,1 @@
-# Fast and Simples Scripts
+# Fast and Simple Scripts
